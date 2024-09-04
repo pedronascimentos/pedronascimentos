@@ -11,7 +11,7 @@
 - 🌱 Constantly learning and growing, currently focused on Python.
 - 📚 Collaborating on academic projects and research.
 - 💡 Enthusiast of solving social and mechanical problems.
-- 
+
 ---
 
 <p align="center">
