@@ -1,7 +1,14 @@
-# Hey! 👋:
+### 👋 Hey there!
 
-My name is Pedro Henrique and i am currently pursuing a degree in Software Engineering at the University of Brasília (UnB). 
-I am actively working on two mobile applications for the university: **GEROcuidado** and **Campus Multiplataforma**. I am also passionate about collaborating on academic research and projects, especially those that address social and mechanical challenges. Currently, I am expanding my knowledge in Python.
+**My name is Pedro Henrique.**  
+*I'm currently pursuing a degree in Software Engineering at the University of Brasília (UnB). 
+I'm actively working on two mobile applications for the university: **GEROcuidado** and **Campus Multiplataforma**. I’m passionate about academic research and projects, especially those that address social and mechanical challenges. Currently, I’m expanding my knowledge in Python.*
+
+### 🚀 About me:
+- 🌱 Constantly learning and growing, currently focused on Python.
+- 📚 Collaborating on academic projects and research.
+- 💡 Enthusiast of solving social and mechanical problems.
+
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 
