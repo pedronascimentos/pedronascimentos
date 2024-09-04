@@ -6,21 +6,20 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <div style="text-align: left;">
-      <h3>About me:</h3>
-      <ul>
-        <li>🌱 Constantly learning and growing, currently focused on Python.</li>
-        <li>📚 Collaborating on academic projects and research.</li>
-        <li>💡 Enthusiast of solving social and mechanical problems.</li>
-      </ul>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <h3>About me:</h3>
+    <ul>
+      <li>🌱 Constantly learning and growing, currently focused on Python.</li>
+      <li>📚 Collaborating on academic projects and research.</li>
+      <li>💡 Enthusiast of solving social and mechanical problems.</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   </div>
 </div>
+
 
 
 ---
