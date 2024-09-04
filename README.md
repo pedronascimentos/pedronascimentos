@@ -9,12 +9,7 @@
 ###  About me:
 - 🌱 Constantly learning and growing, currently focused on Python.
 - 📚 Collaborating on academic projects and research.
-- 💡 Enthusiast of solving social and mechanical problems.
-
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 💡 Enthusiast of solving social and mechanical problems.![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## Products
