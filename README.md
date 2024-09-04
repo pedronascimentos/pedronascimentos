@@ -1,8 +1,7 @@
 
 # 💫 About Me:
 I am currently pursuing a degree in Software Engineering at the University of Brasília (UnB). I am actively working on two mobile applications for the university: **GEROcuidado** and **Campus Multiplataforma**. I am also passionate about collaborating on academic research and projects, especially those that address social and mechanical challenges. Currently, I am expanding my knowledge in Python.
-
-## 🌐 Socials:
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 
 # 💻 Tech Stack:
