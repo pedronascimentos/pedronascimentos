@@ -12,7 +12,7 @@
 - 📚 Collaborating on academic projects and research.
 - 💡 Enthusiast of solving social and mechanical problems.
 
-<h1>![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</h1>
+<h1> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </h1>
 
 
 ## Products
