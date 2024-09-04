@@ -6,8 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; text-align: left;">
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
     <h3>About me:</h3>
     <ul>
       <li>🌱 Constantly learning and growing, currently focused on Python.</li>
@@ -19,6 +20,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   </div>
 </div>
+
+
 
 
 
