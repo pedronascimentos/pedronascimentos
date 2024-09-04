@@ -8,15 +8,14 @@
 - 🌱 Constantly learning and growing, currently focused on Python.
 - 📚 Collaborating on academic projects and research.
 - 💡 Enthusiast of solving social and mechanical problems.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 
 ## Products
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pedronascimentos) 
 
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 [![](https://visitcount.itsvg.in/api?id=pedronascimentos&icon=0&color=0)](https://visitcount.itsvg.in)
