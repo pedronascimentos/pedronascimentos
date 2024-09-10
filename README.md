@@ -5,6 +5,7 @@
 *I'm actively working on two mobile applications for the university: **GEROcuidado** and **Campus Multiplataforma**. I’m passionate about academic research and projects, especially those that address social and mechanical challenges.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:pedrohenriquemonteironasciment@gmail.com)
 
 
 <div style="display: flex; align-items: flex-start;">
