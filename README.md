@@ -2,21 +2,13 @@
 
 **My name is Pedro Henrique. I’m currently pursuing a degree in Software Engineering at the University of Brasília (UnB).**
 
-*I'm actively working on two mobile applications for the university: **GEROcuidado** and **Campus Multiplataforma**. I’m passionate about academic research and projects, especially those that address social and mechanical challenges.*
+*I'm actively working on two mobile applications for the university: **GEROcuidado** and **Campus Multiplataforma***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:pedrohenriquemonteironasciment@gmail.com)
 
 
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h3>About me:</h3>
-    <ul>
-      <li>🌱 Constantly learning and growing, currently focused on Python.</li>
-      <li>📚 Collaborating on academic projects and research.</li>
-      <li>💡 Enthusiast of solving social and mechanical problems.</li>
-    </ul>
-  </div>
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   </div>
