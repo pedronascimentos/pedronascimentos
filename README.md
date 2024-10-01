@@ -44,6 +44,3 @@ Atualmente estou aprimorando minhas habilidades em Data analytics e Machine Lear
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pedronascimentos)
 
----
-
-Está tudo correto agora? Se precisar de mais alguma alteração, estou à disposição!
