@@ -1,9 +1,9 @@
 # Pedro Henrique! 👋
 
 ## 👨‍💻 Sobre Mim
-Estudante de Engenharia de Software na Universidade de Brasília (UnB). Atualmente, estou focado no desenvolvimento backend com **Node.js** e **TypeScript**, e trabalhando em dois projetos principais da universidade: **GEROcuidado** e **Campus Multiplataforma**. Tenho experiência em criar APIs robustas e sistemas backend escaláveis, além de integrar soluções com bancos de dados SQL e NoSQL.
+Estudante de Engenharia de Software na Universidade de Brasília (UnB). Atualmente estou trabalhando no desenvolvimento de dois projetos pra universidade: **GEROcuidado** e **Campus Multiplataforma**, atuando com desenvolvimento Full-Stack em NestJS, Node.js, React Native Expo e Typescript e expandindo os conhecimentos em automação digital com Python, IA, RPA.
 
-Estou sempre em busca de novos desafios para expandir minhas habilidades e contribuir para projetos de grande impacto.
+Atualmente estou aprimorando minhas habilidades em Data analytics e Machine Learning e sempre em busca de novos desafios para expandir meu conhecimento técnico.
 
 ## ⚡ Áreas de Expertise
 - Desenvolvimento Backend com **Node.js** e **TypeScript**
@@ -26,10 +26,11 @@ Estou sempre em busca de novos desafios para expandir minhas habilidades e contr
 ### Integração e Deploy:
 - Docker para containerização de aplicações
 - Implementação de CI/CD com **GitLab** e **GitHub Actions**
-- Deploy em ambientes **Oracle**, **Heroku**
+- Deploy em ambientes **Oracle**, **Heroku**, **Firebase**
 
 
 ## 🌐 Idiomas
+
 - Inglês: Intermediário
 
 
