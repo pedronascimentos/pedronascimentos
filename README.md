@@ -26,7 +26,7 @@ Estou sempre em busca de novos desafios para expandir minhas habilidades e contr
 ### Integração e Deploy:
 - Docker para containerização de aplicações
 - Implementação de CI/CD com **GitLab** e **GitHub Actions**
-- Deploy em ambientes **AWS**, **Heroku**
+- Deploy em ambientes **Oracle**, **Heroku**
 
 
 ## 🌐 Idiomas
