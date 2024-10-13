@@ -1,46 +1,40 @@
-# Pedro Henrique! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Hi%2C+everyone!+I'm+Pedro+Henrique.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+<img src="https://i.pinimg.com/originals/0d/e1/62/0de16247a29822ac7e6b94630611ea3f.gif" alt="Pixel Art" align="right" width="300" >
+<br>
+<div align="left"> 
+<p><img align="center" height="35" width="40" src="https://github.com/user-attachments/assets/e7f86cd2-35d1-4479-9ecb-0c4d0780d0fb"> Full-Stack Developer </p> <p>
+<img align="center" alt="Cris-Csharp" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg">
+ UnB - Software Engineering Student 2/10 </p>
 
-## 👨‍💻 Sobre Mim
-Estudante de Engenharia de Software na Universidade de Brasília (UnB). Atualmente estou trabalhando no desenvolvimento de dois projetos pra universidade: **GEROcuidado** e **Campus Multiplataforma**, atuando com desenvolvimento Full-Stack em NestJS, Node.js, React Native Expo e Typescript e expandindo os conhecimentos em automação digital com Python, IA, RPA.
-
-Atualmente estou aprimorando minhas habilidades em Data analytics e Machine Learning e sempre em busca de novos desafios para expandir meu conhecimento técnico.
-
-## ⚡ Áreas de Expertise
-- Desenvolvimento Backend com **Node.js** e **TypeScript**
-- Criação de APIs REST e GraphQL
-- Integração de Bancos de Dados SQL (Postgres, MySQL, MariaDB) e NoSQL (MongoDB, Firebase)
-- Microserviços e Arquitetura Serverless
-- Desenvolvimento Frontend com **React**, **Next.js** e **React Native**
-- Controle de Versão com **Git**, **GitHub**, e **GitLab**
-
-## 🛠 Habilidades Técnicas
-### Linguagens de Programação e Tecnologias:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Desenvolvimento Backend:
-- **Node.js**: Criação de APIs escaláveis e manuteníveis
-- **TypeScript**: Desenvolvimento de aplicações tipadas e seguras
-- **NestJS**: Estruturação de aplicações com padrões MVC e injeção de dependência
-- **MongoDB**, **PostgreSQL** e **MySQL**: Modelagem e otimização de banco de dados
-
-### Integração e Deploy:
-- Docker para containerização de aplicações
-- Implementação de CI/CD com **GitLab** e **GitHub Actions**
-- Deploy em ambientes **Oracle**, **Heroku**, **Firebase**
+</div>
 
 
-## 🌐 Idiomas
+### Technologies and tools:
 
-- Inglês: Intermediário
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-TS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Cris-NodeJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Cris-NestJS" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg">
+  <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
 
 
-## 💼 Projetos em Andamento
-- **GEROcuidado**: [Repositório no GitHub](https://github.com/pedronascimentos/2024-1-GEROcuidado-Front)
-- **Campus Multiplataforma**: [Repositório no GitHub](https://github.com/pedronascimentos/campus_multimidia_front)
+### GitHub Stats
+<br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedronascimentos&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="snowinterw github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
-## 💼🔗 Vamos nos conectar!
-- [LinkedIn Pedro Henrique](https://br.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6/)
-- 📧 Email: pedrohenriquemonteironasciment@gmail.com
-
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pedronascimentos)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedronascimentos&bg_color=000000&color=ffffff&line=616161&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<div align="center"> 
+<a href = "mailto:pedrohenriquemonteironasciment@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
