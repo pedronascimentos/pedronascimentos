@@ -24,14 +24,28 @@ Software Engineering student at University of Brasília (UnB), committed to desi
 </div>
 
 
-
-
 ## 🚀 Highlights
 
-- 👥 **1,000+** users reached through real-world projects  
-- ⚡ **2×** performance boost in legacy systems  
-- 📚 **1** peer-reviewed academic article published  
-
+<div align="left">
+  <table style="border: none;">
+    <tr>
+      <td valign="top" width="30">👥</td>
+      <td><strong>1,000+</strong><br><sub>Users reached through real-world projects</sub></td>
+    </tr>
+    <tr>
+      <td valign="top">🥇</td>
+      <td><strong>IEEE 2024 Hackathon</strong><br><sub>Gold Medalist</sub></td>
+    </tr>
+    <tr>
+      <td valign="top">🎤</td>
+      <td><strong>Speaker</strong><br><sub>Seminar with Director of UnB Software R&D Center</sub></td>
+    </tr>
+    <tr>
+      <td valign="top">📚</td>
+      <td><strong>1 Article</strong><br><sub>Peer-reviewed academic publication</sub></td>
+    </tr>
+  </table>
+</div>
 
 ## 🧠 Practices & Methodologies
 
