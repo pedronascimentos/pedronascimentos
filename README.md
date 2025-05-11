@@ -23,34 +23,9 @@ Software Engineering student at University of Brasília (UnB), committed to desi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" width="40" title="Git">
 </div>
 
-
-## 🚀 Highlights
+## 📊 GitHub Stats  
 
 <div align="center">
-  <table style="border: none; margin: 0 auto;">
-    <tr>
-      <td align="center" valign="top">
-        <div>👥</div>
-        <strong>1,000+</strong><br>
-        <sub>Users reached</sub>
-      </td>
-      <td align="center" valign="top">
-        <div>🥇</div>
-        <strong>IEEE Hackathon 2024</strong><br>
-        <sub>Gold Medalist</sub>
-      </td>
-      <td align="center" valign="top">
-        <div>🎤</div>
-        <strong>Speaker</strong><br>
-        <sub>Seminar at UnB</sub>
-      </td>
-      <td align="center" valign="top">
-        <div>📚</div>
-        <strong>1 Article</strong><br>
-        <sub>Academic publication</sub>
-      </td>
-    </tr>
-  </table>
   <p align="center">
   <img src="https://img.shields.io/badge/Agile-%232E86C1?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID-%23626262?style=for-the-badge&logo=stackoverflow&logoColor=white" />
@@ -61,7 +36,7 @@ Software Engineering student at University of Brasília (UnB), committed to desi
 </p>
 </div>
 
-## 📊 GitHub Stats  
+
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&show_icons=true&hide_border=true&layout=compact" />
