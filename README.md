@@ -56,5 +56,5 @@ Predictive models for urban security using geospatial data and image analysis, d
 
 <div align="center">
   <p align="center">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </div>
