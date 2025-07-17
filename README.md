@@ -1,54 +1,60 @@
 # Pedro Henrique Monteiro Nascimento 
 
-**<img align="center" alt="UnB" height="12" width="33" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg"> Software Engineer | Full-Stack Developer**
+**<img align="center" alt="UnB" height="12" width="33" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg"> Software Engineer | Full-Stack Developer & Data Engineer**
 
-Software Engineering student at University of Brasília (UnB), committed to designing scalable and efficient software solutions. Continuously learning and gaining hands-on experience through projects with real-world social impact.
+Software Engineering student at the University of Brasília with a deep focus on Data Science. Passionate about architecting and developing data-driven systems that translate complex information into actionable insights. Currently Director of Projects at IEEE UnB and an active member of the IEEE Computational Intelligence Society.
 
-### Core Stack
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="35" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35" width="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" alt="Java" height="35" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" height="35" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="35" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="35" width="40">
-</div>  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pedrohenriquemonteironasciment@gmail.com) 
 
-### Tools Stack
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" width="40" title="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="35" width="40" title="Docker">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="35" width="40" title="AWS">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="Azure" height="35" width="40" title="Azure">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" width="40" title="Git">
-</div>
 
-## 📊 GitHub Stats  
+## Featured Projects
+
+### *GEROcuidado*
+Offline-first mobile system for capturing and analyzing longitudinal health data, featuring complex conflict resolution.
+- **Tech:** React Native, TypeScript, NestJS, SQLite
+- **Status:** Published on Play Store
+
+<a href="LINK_PARA_O_REPO_GEROCUIDADO"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a> <a href="LINK_PARA_A_PLAY_STORE_GEROCUIDADO"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play"></a>
+
+### *FutSide*
+Real-time event matching system using an MQTT pub-sub architecture to connect users based on geospatial proximity.
+- **Tech:** React Native, MQTT, Node.js, FastAPI
+- **Status:** Award-winning project
+
+<a href="LINK_PARA_O_REPO_FUTSIDE"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
+
+### *Campus Multiplataforma*
+Full-stack news platform with a serverless backend architected for high-traffic student use.
+- **Tech:** React Native, TypeScript, Firebase
+- **Status:** Published on Play Store
+
+<a href="LINK_PARA_O_REPO_CAMPUS"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a> <a href="LINK_PARA_A_PLAY_STORE_CAMPUS"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play"></a>
+
+### *VIGIA – Geospatial Intelligence System*
+Predictive models for urban security using geospatial data and image analysis, developed in partnership with law enforcement (PCDF).
+- **Tech:** Python, scikit-learn, Flask, PostGIS, GNNs
+- **Status:** In Development
+
+<a href="LINK_PARA_O_REPO_VIGIA"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
+
+---
+
+## Publications
+
+- **[CAMPUS MULTIPLATAFORMA: DESENVOLVIMENTO DE UM APLICATIVO JORNALÍSTICO MULTIMÍDIA](https://proceedings.science/enejor-2025/trabalhos/campus-multiplataforma-desenvolvimento-de-um-aplicativo-jornalistico-multimidia?lang=pt-br)**
+  <br>_ABEJ ENEJOR, 2025_
+
+---
+
+## Technical Skills
+
+- **Backend:** Python, NestJS, Node.js, FastAPI | PostgreSQL, MySQL, SQLite | AWS, Google Cloud
+- **Frontend:** React, React Native, Next.js, Expo
+- **Data Science:** Scikit-learn, Pandas, PostGIS, GNNs/GCNs
+- **Other Tools:** MQTT, Firebase, Docker, Git
+
 
 <div align="center">
-  <p align="center">
-  <img src="https://img.shields.io/badge/Agile-%232E86C1?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID-%23626262?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-%23007396?style=for-the-badge&logo=protocolsio&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-%23344152?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_%2F_GraphQL-%235D3FD3?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-%232E4053?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-</div>
-
-
-
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</div>  
-
-## 📫 Contact  
-
-<div align="center">
-  <a href="mailto:pedrohenriquemonteironasciment@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-monteiro-nascimento-069b0b2b6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-  </a>  
+  <p align="center">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimentos&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </div>
