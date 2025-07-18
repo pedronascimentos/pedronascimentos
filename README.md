@@ -14,28 +14,28 @@ Offline-first mobile system for capturing and analyzing longitudinal health data
 - **Tech:** React Native, TypeScript, NestJS, SQLite
 - **Status:** Published on Play Store
 
-<a href="LINK_PARA_O_REPO_GEROCUIDADO"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a> <a href="LINK_PARA_A_PLAY_STORE_GEROCUIDADO"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play"></a>
+<a href="https://github.com/pedronascimentos/GEROcuidado"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a> <a href="https://play.google.com/store/apps/details?id=com.nevoy.gerocuidado&pcampaignid=web_share"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play"></a>
 
 ### *FutSide*
 Real-time event matching system using an MQTT pub-sub architecture to connect users based on geospatial proximity.
 - **Tech:** React Native, MQTT, Node.js, FastAPI
 - **Status:** Award-winning project
 
-<a href="LINK_PARA_O_REPO_FUTSIDE"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/pedronascimentos/Futside-Back"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
 
 ### *Campus Multiplataforma*
 Full-stack news platform with a serverless backend architected for high-traffic student use.
 - **Tech:** React Native, TypeScript, Firebase
 - **Status:** Published on Play Store
 
-<a href="LINK_PARA_O_REPO_CAMPUS"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a> <a href="LINK_PARA_A_PLAY_STORE_CAMPUS"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play"></a>
+<a href="https://github.com/pedronascimentos/campus_multiplataforma"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a> <a href="https://play.google.com/store/apps/details?id=com.pedrofernandss.campus_multiplataforma&pcampaignid=web_share"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play"></a>
 
 ### *VIGIA – Geospatial Intelligence System*
 Predictive models for urban security using geospatial data and image analysis, developed in partnership with law enforcement (PCDF).
 - **Tech:** Python, scikit-learn, Flask, PostGIS, GNNs
 - **Status:** In Development
 
-<a href="LINK_PARA_O_REPO_VIGIA"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Security-Monitor-Hackathon"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
 
 ---
 
