@@ -35,7 +35,7 @@ Predictive models for urban security using geospatial data and image analysis, d
 - **Tech:** Python, scikit-learn, Flask, PostGIS, GNNs
 - **Status:** In Development
 
-<a href="https://github.com/Security-Monitor-Hackathon"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/pedronascimentos/VIGIA"><img src="https://img.shields.io/badge/Code-333?style=for-the-badge&logo=github"></a>
 
 ---
 
